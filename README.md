@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ECS 175: Computer Graphics.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub! I am currently working on a web development project in Python where I can automatically update my Google calendar app
+with class schedule information taken directly off of the UC Davis website. Every single quarter, I found myself spending an hour manually
+entering in my class lecture and discussion times, and I wanted to simplify this process so it can happen with just the push of a button. 
+
+About me: In my free time, I love to go hiking, swimming, running, or traveling. I have been to 47 states and I hope to travel abroad more
+when I finish school. I have collected over 50 snowglobes from my travels and I plan to get more.
