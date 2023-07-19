@@ -19,5 +19,5 @@ Welcome to my GitHub! I am currently working on a web development project in Pyt
 with class schedule information taken directly off of the UC Davis website. Every single quarter, I find myself spending an hour manually
 entering in my class lecture and discussion times, and I want to simplify this process so it can happen with just the click of a button. 
 
-About me: In my free time, I love to go hiking, swimming, running, or traveling. I have been to 47 states and I hope to travel abroad more
+About me😄: In my free time, I love to go hiking, swimming, running, or traveling. I have been to 47 states and I hope to travel abroad more
 when I finish school. I have collected over 50 snowglobes from my travels and I plan to get more.
