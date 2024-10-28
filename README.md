@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I am currently working on a web development project in Python where I can automatically update my Google calendar app
-with class schedule information taken directly off of the UC Davis website. Every single quarter, I find myself spending up to an hour manually
-entering in my class lecture and discussion times, and I want to simplify this process so it can happen with just the click of a button. 
+Welcome to my GitHub! I am looking to develop my skills in Web Development and Powershell. I am not working on any projects at the moment, but I have heard about ArcGIS online and since I have an interent interest in geography (see About me), I am going to try creating a project that incorporates all of my passions (scripting, coding, cybersecurity, and geography) together. Currently, I am pursuing certifications in Security+, A+, and Network+. I recently graduated college with a Bachelor's degree in Computer Science, but I found myself a little burnt out from full time studies so I am taking a break! I am hoping to one day go back to pursue a master's degree in either cybersecurity or geography (2 specialties that I am extremely interested in- maybe I'll end up doing both!)
 
-About me😄: In my free time, I love to go hiking, swimming, running, or traveling. I have been to 47 states and I hope to travel abroad more
-when I finish school. Fun Fact: I have collected over 50 snowglobes from my travels.
+About me😄: In my free time, I love to go hiking, swimming, running, or traveling. I have been to 48 states and I plan to travel abroad to New Zealand in December. My passion for geography began when I was 16 years old on a family road trip across the United States. I was given a map by my father and told to navigate us around the country. I had so much fun from this experience that upon getting home, I immediately downloaded Google Earth onto my phone and that's where I spend the most time- learning and memorizing roads, paths, terrain, and other cool geographical facts. 
+
+Fun Fact: I have collected over 50 snowglobes from my travels.
